@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+    xmlns:fn="http://www.w3.org/2005/02/xpath-functions"
+    xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
+    xml:lang="myv"
+    title_myv="Кедровой пештть"
+    genre_myv="Ёвтнемат"
+    author_first_name="П."
+    author_last_name="Глухов"
+    author_patronym=""
+    native_language="myv"
+    publicationName=""
+    publicationPlace=""
+    publicationYear="1929"
+    publisher=""
+    characterCount=""
+    wordCount=""
+    first_page=""
+    last_page=""
+    correctionYear="2008"
+    corrector_first_name="Jack"
+    corrector_last_name="Rueter"
+    status_eng="open"
+    status_fin="open">
+  <sentence text="Колмо кочкамот Дёбаень Микол ульнесь велень советэнь председателькс." sent_id="GluxovP_KedrovojPeshtj_1929:0"/>
+  <sentence text="Председательнень велесэ ламо тевть." sent_id="GluxovP_KedrovojPeshtj_1929:1"/>
+  <sentence text="Вечки Микол велень тевсэ роботамо ды кудосонть тевтне пупорькшнэме кармасть — роботамс акинень: низэ Маря ниле иесэ церьгаест Палько марто пек ламонь синдеме а кенери." sent_id="GluxovP_KedrovojPeshtj_1929:10"/>
+  <sentence text="Тон сестэ председателькс ульнить." sent_id="GluxovP_KedrovojPeshtj_1929:100"/>
+  <sentence text="Лемем Кирё." sent_id="GluxovP_KedrovojPeshtj_1929:101"/>
+  <sentence text="Совасть кавонест кудынентень." sent_id="GluxovP_KedrovojPeshtj_1929:102"/>
+  <sentence text="—Тонть чаетькак уш путозь,—мерсь Кирё." sent_id="GluxovP_KedrovojPeshtj_1929:103"/>
+  <sentence text="—Парсте минь течи ярстанок." sent_id="GluxovP_KedrovojPeshtj_1929:104"/>
+  <sentence text="Монь, ванат, сувозеем чавозь ули." sent_id="GluxovP_KedrovojPeshtj_1929:105"/>
+  <sentence text="Ваньськавт эйсэнзэ, мон молян ведь кандан." sent_id="GluxovP_KedrovojPeshtj_1929:106"/>
+  <sentence text="Микол кармась сувозеенть ваньськавтомо." sent_id="GluxovP_KedrovojPeshtj_1929:107"/>
+  <sentence text="Кирё канць ведь." sent_id="GluxovP_KedrovojPeshtj_1929:108"/>
+  <sentence text="Сувозееньть путызь пидеме." sent_id="GluxovP_KedrovojPeshtj_1929:109"/>
+  <sentence text="Максынзе Дёбаень Микол советэнь тевтнень Аповниця Иваннэнь—од председателеньтень." sent_id="GluxovP_KedrovojPeshtj_1929:11"/>
+  <sentence text="— Микол, тонь улить табакот?" sent_id="GluxovP_KedrovojPeshtj_1929:110"/>
+  <sentence text="— Таргак, монь ламо эщо кисетсэнть." sent_id="GluxovP_KedrovojPeshtj_1929:111"/>
+  <sentence text="— Вана косо таланось." sent_id="GluxovP_KedrovojPeshtj_1929:112"/>
+  <sentence text="Мон кисетам козонь бути ёмавтыя." sent_id="GluxovP_KedrovojPeshtj_1929:113"/>
+  <sentence text="Омбоце чи якан апак тарга." sent_id="GluxovP_KedrovojPeshtj_1929:114"/>
+  <sentence text="Превстэнь таргамось чоп а лисьни." sent_id="GluxovP_KedrovojPeshtj_1929:115"/>
+  <sentence text="— Микол, тон умок кудосто?" sent_id="GluxovP_KedrovojPeshtj_1929:116" text_eng="Mikol, have you been away from home a long time?"/>
+  <sentence text="— Омбоце недля якан тайгава." sent_id="GluxovP_KedrovojPeshtj_1929:117"/>
+  <sentence text="— Э..!" sent_id="GluxovP_KedrovojPeshtj_1929:118"/>
+  <sentence text="Тонтеметь нать весе тевтне ульнесть велесэнк?" sent_id="GluxovP_KedrovojPeshtj_1929:119"/>
+  <sentence text="Сонсь кавто-колмо чис витинзе-петинзе кудонь тевензэ ды кармась сырьгамо тайгав ур мельга." sent_id="GluxovP_KedrovojPeshtj_1929:12"/>
+  <sentence text="— Кодат тевть?" sent_id="GluxovP_KedrovojPeshtj_1929:120" text_eng="What things?"/>
+  <sentence text="—Ютась недлясто велесэнк бандит ульнесть, маштызь председателенть." sent_id="GluxovP_KedrovojPeshtj_1929:121"/>
+  <sentence text="— Ну!?." sent_id="GluxovP_KedrovojPeshtj_1929:122"/>
+  <sentence text="Тон косто содат?—Микол мик ловташкаць." sent_id="GluxovP_KedrovojPeshtj_1929:123"/>
+  <sentence text="— Велесэнек тынк велень ломать ульнесть, ёвтнесть." sent_id="GluxovP_KedrovojPeshtj_1929:124"/>
+  <sentence text="Паро-араселеть кудосо." sent_id="GluxovP_KedrovojPeshtj_1929:125" text_eng="It's a good thing you weren't at home."/>
+  <sentence text="Тон коммунист —васняяк тонть чавовледезь." sent_id="GluxovP_KedrovojPeshtj_1929:126"/>
+  <sentence text="—Вана сволочт кодат! — кроязевсь Микол." sent_id="GluxovP_KedrovojPeshtj_1929:127"/>
+  <sentence text="Сынь яла истя эцить тайга ало глухой велетненень." sent_id="GluxovP_KedrovojPeshtj_1929:128"/>
+  <sentence text="—Те Лапшов чей отрядонзо марто пани мельгаст,—мерсь Кирё." sent_id="GluxovP_KedrovojPeshtj_1929:129"/>
+  <sentence text="Анокстызе ружиянзо." sent_id="GluxovP_KedrovojPeshtj_1929:13"/>
+  <sentence text="—Тунда Донскоень бандазо лоткакшнось минек вакснэ Бессоновка велес." sent_id="GluxovP_KedrovojPeshtj_1929:130"/>
+  <sentence text="Колмосят ломать ульнесть бандитнэде." sent_id="GluxovP_KedrovojPeshtj_1929:131"/>
+  <sentence text="Пачкоць куля бандитнэнь кувалма Лапшовнэнь." sent_id="GluxovP_KedrovojPeshtj_1929:132"/>
+  <sentence text="Сон колоньгемень ломань марто ашолгадмо ланга кода эци виренть ёндо веленть ланкс!" sent_id="GluxovP_KedrovojPeshtj_1929:133"/>
+  <sentence text="Бандитнэ арьсесть сядошка ломань эцить лангозост." sent_id="GluxovP_KedrovojPeshtj_1929:134"/>
+  <sentence text="Удомост пачк ки ков понксь орголесть." sent_id="GluxovP_KedrovojPeshtj_1929:135"/>
+  <sentence text="Сестэ чавсть бандитнэде кемнилее ломань ды колоньгеменьшка лишметь сайсть." sent_id="GluxovP_KedrovojPeshtj_1929:136"/>
+  <sentence text="Якстереармеецнэ бандитэнь лишметнень весе явшизь бедной эрицятнень ланга." sent_id="GluxovP_KedrovojPeshtj_1929:137"/>
+  <sentence text="Бандитнэде пелезь, васня эсть сайть ломатне лишметнень." sent_id="GluxovP_KedrovojPeshtj_1929:138"/>
+  <sentence text="Мейле вейкесь веши, омбоцесь веши." sent_id="GluxovP_KedrovojPeshtj_1929:139"/>
+  <sentence text="Маря пештизе котуманзо кошкседе, пуць сал, тувонь сывель, ванькс пракстат." sent_id="GluxovP_KedrovojPeshtj_1929:14"/>
+  <sentence text="Паро улевель максовольтьдеряй моненьгак лишме." sent_id="GluxovP_KedrovojPeshtj_1929:140"/>
+  <sentence text="Монь лишмем нуйма ланга кулось, ней пе сась лишмевтеме." sent_id="GluxovP_KedrovojPeshtj_1929:141"/>
+  <sentence text="Рамамс— вием а саты." sent_id="GluxovP_KedrovojPeshtj_1929:142"/>
+  <sentence text="— Кирё, тон эзить маря монь семиядонть, мезеяк эсть тейть мартост бандитнэ?" sent_id="GluxovP_KedrovojPeshtj_1929:143"/>
+  <sentence text="— Арась, Микол, мезеяк эсть корта семият эздэ." sent_id="GluxovP_KedrovojPeshtj_1929:144"/>
+  <sentence text="Миколонь седеезэ кармась ризнэме: шумбрат ли кудосонть?" sent_id="GluxovP_KedrovojPeshtj_1929:145"/>
+  <sentence text="Эзизь машт ли бандитнэ?" sent_id="GluxovP_KedrovojPeshtj_1929:146"/>
+  <sentence text="—Вана шкат састь — велева фронт теевсь! —таго кармась Кирё кортамо." sent_id="GluxovP_KedrovojPeshtj_1929:147"/>
+  <sentence text="Мон пелян ней винтовка марто ломаньде." sent_id="GluxovP_KedrovojPeshtj_1929:148"/>
+  <sentence text="Ве ёндо ваномс—а содави ломанесь: та миньсинек—-якстере, та бандит." sent_id="GluxovP_KedrovojPeshtj_1929:149"/>
+  <sentence text="Микол саизе кедезэнзэ Пальконь." sent_id="GluxovP_KedrovojPeshtj_1929:15"/>
+  <sentence text="Марить, чей, кизна Рютина велесэ мезе ульнесь?" sent_id="GluxovP_KedrovojPeshtj_1929:150"/>
+  <sentence text="Недлячистэ пурназель велень промкс." sent_id="GluxovP_KedrovojPeshtj_1929:151"/>
+  <sentence text="Продагентэсь кортнесь каявкснэнь кувалма." sent_id="GluxovP_KedrovojPeshtj_1929:152"/>
+  <sentence text="Совасть промкс кудос колмо военной ломать винтовка, револьвер марто." sent_id="GluxovP_KedrovojPeshtj_1929:153"/>
+  <sentence text="Грутьсэст якстере панкскеть." sent_id="GluxovP_KedrovojPeshtj_1929:154"/>
+  <sentence text="Вейкесь сэрей, рижой, парсте оршазь." sent_id="GluxovP_KedrovojPeshtj_1929:155"/>
+  <sentence text="Те рижойсь ютась икелев." sent_id="GluxovP_KedrovojPeshtj_1929:156"/>
+  <sentence text="Здоровась атятнень марто ды кевксць:" sent_id="GluxovP_KedrovojPeshtj_1929:157"/>
+  <sentence text="«Ули тесэ кияк коммунист, монень эряволь мартонзо кортамс бандитнэнь кувалт?»" sent_id="GluxovP_KedrovojPeshtj_1929:158"/>
+  <sentence text="Продагентэсь мерсь: «Тесэ мон ансяк коммунистан»." sent_id="GluxovP_KedrovojPeshtj_1929:159"/>
+  <sentence text="—Ну, Палько, моньтемень иля кольне." sent_id="GluxovP_KedrovojPeshtj_1929:16"/>
+  <sentence text="Мейле рыжойсь мери «Тон аздасамак киян мон?" sent_id="GluxovP_KedrovojPeshtj_1929:160"/>
+  <sentence text="Мон бандит Чернов»." sent_id="GluxovP_KedrovojPeshtj_1929:161" text_eng="I'm the one they call bandit Chernov."/>
+  <sentence text="Весе атятне тандацть." sent_id="GluxovP_KedrovojPeshtj_1929:162"/>
+  <sentence text="Продинспектордонть аместь кортамскак." sent_id="GluxovP_KedrovojPeshtj_1929:163"/>
+  <sentence text="Саизь сонзэ, ливтизь ушов ды маштызь." sent_id="GluxovP_KedrovojPeshtj_1929:164"/>
+  <sentence text="Васня пек муцясть эснэнзэ: кедензэ керизь, сельмензэ таргизь." sent_id="GluxovP_KedrovojPeshtj_1929:165"/>
+  <sentence text="Мейле, кода куловтызь, ёртызь Ангара лейс." sent_id="GluxovP_KedrovojPeshtj_1929:166"/>
+  <sentence text="Кире варшизе ямонть." sent_id="GluxovP_KedrovojPeshtj_1929:167"/>
+  <sentence text="— Ямось пись, давай ярстанок." sent_id="GluxovP_KedrovojPeshtj_1929:168"/>
+  <sentence text="Кирё саизе толонть вельксстэ ямонть." sent_id="GluxovP_KedrovojPeshtj_1929:169"/>
+  <sentence text="Молян тайгав, кандан кедровой пешть, урт." sent_id="GluxovP_KedrovojPeshtj_1929:17"/>
+  <sentence text="Пуць коське тарат толонть ланкс—седе валдо улезэ, ды кармасть кавонест ярсамо." sent_id="GluxovP_KedrovojPeshtj_1929:170"/>
+  <sentence text="Кода ярсавсть, Кирё ловажатнень каинзе кискатненень." sent_id="GluxovP_KedrovojPeshtj_1929:171"/>
+  <sentence text="Совась мекев." sent_id="GluxovP_KedrovojPeshtj_1929:172"/>
+  <sentence text="— Весь паро." sent_id="GluxovP_KedrovojPeshtj_1929:173"/>
+  <sentence text="Маниньдясь." sent_id="GluxovP_KedrovojPeshtj_1929:174"/>
+  <sentence text="Таргатанок, Микол, эщо весть вензэ ланкс." sent_id="GluxovP_KedrovojPeshtj_1929:175"/>
+  <sentence text="Микол таргизе кисетэнзэ." sent_id="GluxovP_KedrovojPeshtj_1929:176"/>
+  <sentence text="Пештизь табакто пипкаст, Миколнэнь пипказояк эзь прядовт — сизимань пачк сеск матидевсь." sent_id="GluxovP_KedrovojPeshtj_1929:177" text_eng="They filled their pipes with tobacco, Mikol didn't even finish his pipe, he dozed off out of sheer exhaustion immediately."/>
+  <sentence text="Матидевсь курок Кирёяк." sent_id="GluxovP_KedrovojPeshtj_1929:178"/>
+  <sentence text="Кискатнеяк ушосо маднесть кудыненть ёжова." sent_id="GluxovP_KedrovojPeshtj_1929:179"/>
+  <sentence text="Мазы шапка тонеть статанок." sent_id="GluxovP_KedrovojPeshtj_1929:18"/>
+  <sentence text="Весь маней." sent_id="GluxovP_KedrovojPeshtj_1929:180"/>
+  <sentence text="Менелесь пешксе тештеде, пельиеяк косояк а неяви." sent_id="GluxovP_KedrovojPeshtj_1929:181"/>
+  <sentence text="Тайгась оймась." sent_id="GluxovP_KedrovojPeshtj_1929:182"/>
+  <sentence text="Чувтнэяк прок удыть." sent_id="GluxovP_KedrovojPeshtj_1929:183"/>
+  <sentence text="Маряви ансяк аволь васоло кр-кр, кр-кр сыре чувто нури ды, вишка эйкаш лацо, аварьди покш пря корш." sent_id="GluxovP_KedrovojPeshtj_1929:184"/>
+  <sentence text="Эщо тештнеяк эсть кенерть менельстэ кекшеме, кавонест охотникне ульнесть уш пильге ланксо." sent_id="GluxovP_KedrovojPeshtj_1929:185"/>
+  <sentence text="Сынь лакавцть чай, ярсасть аламнеде ды сырьгасть эрьвейке эсь кияванзо." sent_id="GluxovP_KedrovojPeshtj_1929:186"/>
+  <sentence text="Микол кисканзо марто тусь кудов, Кирё тусь эщо вирьганть якамо." sent_id="GluxovP_KedrovojPeshtj_1929:187"/>
+  <sentence text="Обед малав Микол пачкоць велес." sent_id="GluxovP_KedrovojPeshtj_1929:188"/>
+  <sentence text="Муя веленть весе ниленьгемень кудонзо аштить Муя леенть кувалт." sent_id="GluxovP_KedrovojPeshtj_1929:189"/>
+  <sentence text="— Тетяй, кедровой шишкаяк туят?" sent_id="GluxovP_KedrovojPeshtj_1929:19"/>
+  <sentence text="Ало педе аволь васоло ашти Дёбай Миколонь кудозо, Микол капши, юты веленть удалга." sent_id="GluxovP_KedrovojPeshtj_1929:190"/>
+  <sentence text="Кирёнь ёвтниматнеде мейле Миколонь седеезэ а таркасо." sent_id="GluxovP_KedrovojPeshtj_1929:191"/>
+  <sentence text="Вана сонзэ кудынезэ." sent_id="GluxovP_KedrovojPeshtj_1929:192"/>
+  <sentence text="Совась кардайс." sent_id="GluxovP_KedrovojPeshtj_1929:193"/>
+  <sentence text="Латало ашти лишмезэ." sent_id="GluxovP_KedrovojPeshtj_1929:194"/>
+  <sentence text="Лишмесь ве ёндо содызе азоронзо, кодак неизе—цяхазевсь." sent_id="GluxovP_KedrovojPeshtj_1929:195"/>
+  <sentence text="Микол мольсь лишменть ваксе, хлопаизе грива ланга ды совась кудос." sent_id="GluxovP_KedrovojPeshtj_1929:196"/>
+  <sentence text="Маря столь экшесэ озадо, варьгат коды." sent_id="GluxovP_KedrovojPeshtj_1929:197" text_eng="Marya is at the table sitting, she's knitting gloves."/>
+  <sentence text="Палько кудосонть а неяви." sent_id="GluxovP_KedrovojPeshtj_1929:198"/>
+  <sentence text="Маря кода неизе Миколонь, варьганьтькак ёртызе эземс." sent_id="GluxovP_KedrovojPeshtj_1929:199"/>
+  <sentence text="Оймсима шкаяк Микол а неиль." sent_id="GluxovP_KedrovojPeshtj_1929:2"/>
+  <sentence text="— Туян." sent_id="GluxovP_KedrovojPeshtj_1929:20"/>
+  <sentence text="Палько, ваныка ки сась." sent_id="GluxovP_KedrovojPeshtj_1929:200"/>
+  <sentence text="Палько лиссь цюлансто, чиезь чийсь тетянзо ёнов:" sent_id="GluxovP_KedrovojPeshtj_1929:201"/>
+  <sentence text="— Тетям сась!.." sent_id="GluxovP_KedrovojPeshtj_1929:202"/>
+  <sentence text="— О, кода тон касыть." sent_id="GluxovP_KedrovojPeshtj_1929:203"/>
+  <sentence text="Аштек гостинецть максан теть." sent_id="GluxovP_KedrovojPeshtj_1929:204"/>
+  <sentence text="Микол саизе лавтом ланксто котуманзо, путызе ружиянзо уголс, каинзе суманензэ." sent_id="GluxovP_KedrovojPeshtj_1929:205"/>
+  <sentence text="— Вана, Палько, тонеть кедровой пешть." sent_id="GluxovP_KedrovojPeshtj_1929:206"/>
+  <sentence text="Ве коморсо Микол пештизе Пальконь элензэ пештеде." sent_id="GluxovP_KedrovojPeshtj_1929:207"/>
+  <sentence text="— Шишка эзить тук, тетяй?" sent_id="GluxovP_KedrovojPeshtj_1929:208"/>
+  <sentence text="— Туинь, кода эно..." sent_id="GluxovP_KedrovojPeshtj_1929:209"/>
+  <sentence text="Покш шишка кандан—пеште марто." sent_id="GluxovP_KedrovojPeshtj_1929:21"/>
+  <sentence text="Микол таргизе котумастонзо кедровой шишканть." sent_id="GluxovP_KedrovojPeshtj_1929:210"/>
+  <sentence text="Радувась Палько, пештензэяк элестэнзэ чамдынзе эземс, кармась ур лацо налксеме шишканть марто." sent_id="GluxovP_KedrovojPeshtj_1929:211"/>
+  <sentence text="Мейле Пальконень лець мелезэнзэ сонсинзэ од кулязо." sent_id="GluxovP_KedrovojPeshtj_1929:212"/>
+  <sentence text="— Тетяй, адяка невтян теть мезенек ули." sent_id="GluxovP_KedrovojPeshtj_1929:213"/>
+  <sentence text="—Невтика, мезеть истя ули, — мерсь Микол ды мольсь цёранзо мельга цюланс." sent_id="GluxovP_KedrovojPeshtj_1929:214"/>
+  <sentence text="Палько комась, варштась потмар алов ды салава тетянстэнзэ:" sent_id="GluxovP_KedrovojPeshtj_1929:215"/>
+  <sentence text="Удыть..." sent_id="GluxovP_KedrovojPeshtj_1929:216"/>
+  <sentence text="Микол ваны — потмар ало левксэнзэ марто псака мадезь ашти." sent_id="GluxovP_KedrovojPeshtj_1929:217"/>
+  <sentence text="Левкснэ сокорт эщо." sent_id="GluxovP_KedrovojPeshtj_1929:218"/>
+  <sentence text="—Эге-ге, мезеть улить!" sent_id="GluxovP_KedrovojPeshtj_1929:219"/>
+  <sentence text="— Микол ёвтнизе Марянень, мезе эряви теемс кудонь перька, серьгединзе кисканзо ды сырьгась вирев." sent_id="GluxovP_KedrovojPeshtj_1929:22"/>
+  <sentence text="Илять токше." sent_id="GluxovP_KedrovojPeshtj_1929:220"/>
+  <sentence text="Палько, кадык удыть." sent_id="GluxovP_KedrovojPeshtj_1929:221"/>
+  <sentence text="Маря пурнась обед." sent_id="GluxovP_KedrovojPeshtj_1929:222"/>
+  <sentence text="Микол прок верьгиз вачомсь, озась ярсамо." sent_id="GluxovP_KedrovojPeshtj_1929:223"/>
+  <sentence text="Маря кармась ёвтнеме, кода Миколонь туймадонзо мейле сакшность велес бадитнэ ды кода маштызь председателенть." sent_id="GluxovP_KedrovojPeshtj_1929:224"/>
+  <sentence text="— Паро се шкане вирьсэлить — маштовлидизь тонть." sent_id="GluxovP_KedrovojPeshtj_1929:225"/>
+  <sentence text="Марясть тайгав туить, эсть вешнеяк эйсэть." sent_id="GluxovP_KedrovojPeshtj_1929:226"/>
+  <sentence text="— Ней а марявить косот бандитнэ?" sent_id="GluxovP_KedrovojPeshtj_1929:227"/>
+  <sentence text="— Арась." sent_id="GluxovP_KedrovojPeshtj_1929:228"/>
+  <sentence text="Ютась недлястонть, ёвтнесть ломать, турсть сынь Усть-Уда веле вакссо." sent_id="GluxovP_KedrovojPeshtj_1929:229"/>
+  <sentence text="Омбоце недля Дёбаень Микол тайгасо." sent_id="GluxovP_KedrovojPeshtj_1929:23"/>
+  <sentence text="Тосо сынь арьсекшнэсть кооперативенть ды заготконторанть грабамо ды эзизь нолда." sent_id="GluxovP_KedrovojPeshtj_1929:230"/>
+  <sentence text="Пек, келя, турсть." sent_id="GluxovP_KedrovojPeshtj_1929:231" text_eng="They say, they really fought."/>
+  <sentence text="— Кинь ней председатёлькс аравтызь Иванонь таркас?" sent_id="GluxovP_KedrovojPeshtj_1929:232"/>
+  <sentence text="—- Атятне таго тонть аравтыксылидизь." sent_id="GluxovP_KedrovojPeshtj_1929:233"/>
+  <sentence text="Знярс кочксизь Цинай Игонь." sent_id="GluxovP_KedrovojPeshtj_1929:234"/>
+  <sentence text="—Эх, жаль Каряз Иван." sent_id="GluxovP_KedrovojPeshtj_1929:235"/>
+  <sentence text="Месть карми ней тейнеме низэ колмо эйкакш марто?" sent_id="GluxovP_KedrovojPeshtj_1929:236"/>
+  <sentence text="Ярсамодо мейле Микол маць таркас оймсеме." sent_id="GluxovP_KedrovojPeshtj_1929:237"/>
+  <sentence text="Палько куйсь ваксозонзо." sent_id="GluxovP_KedrovojPeshtj_1929:238"/>
+  <sentence text="Миколонь ёжозо паро." sent_id="GluxovP_KedrovojPeshtj_1929:239"/>
+  <sentence text="Аламо те сёксестэнть уртнэде." sent_id="GluxovP_KedrovojPeshtj_1929:24"/>
+  <sentence text="Кудосо весе шумбрат, семиянзо марто меньгак берянь арасель." sent_id="GluxovP_KedrovojPeshtj_1929:240"/>
+  <sentence text="Тайгастояк аволь чаво сась." sent_id="GluxovP_KedrovojPeshtj_1929:241"/>
+  <sentence text="Комсь урт панды разверсткас, колоньгеменьшка ур максы кооперативс порохонь ды лия долконь кис." sent_id="GluxovP_KedrovojPeshtj_1929:242"/>
+  <sentence text="Кадовить уртнэ эщо мезень-мезень рамамскак." sent_id="GluxovP_KedrovojPeshtj_1929:243"/>
+  <sentence text="Маря столенть нардызе ды лиссь кардазов." sent_id="GluxovP_KedrovojPeshtj_1929:244"/>
+  <sentence text="Микол кармакшнось уш матедевеме." sent_id="GluxovP_KedrovojPeshtj_1929:245"/>
+  <sentence text="Чиезь чийсь Маря кудос." sent_id="GluxovP_KedrovojPeshtj_1929:246"/>
+  <sentence text="—Микол, стяк седе курок!" sent_id="GluxovP_KedrovojPeshtj_1929:247"/>
+  <sentence text="Веленть пелев ласте ардыцят неявить: та якстереть, та бандит." sent_id="GluxovP_KedrovojPeshtj_1929:248"/>
+  <sentence text="Курок пачкодить..." sent_id="GluxovP_KedrovojPeshtj_1929:249"/>
+  <sentence text="Нать кизна вирень пожартнэ васов панизь уртнэнь." sent_id="GluxovP_KedrovojPeshtj_1929:25"/>
+  <sentence text="Микол ёртозь ёртовсь таркастонть." sent_id="GluxovP_KedrovojPeshtj_1929:250"/>
+  <sentence text="Седе курок тонгинзе лембе кемензэ ды прась вальмантень." sent_id="GluxovP_KedrovojPeshtj_1929:251"/>
+  <sentence text="Нейсы-окульцятнень виц пачкодить ластетне." sent_id="GluxovP_KedrovojPeshtj_1929:252"/>
+  <sentence text="—Неть бандит, Маря!" sent_id="GluxovP_KedrovojPeshtj_1929:253"/>
+  <sentence text="Таргик седе курок винтовкам." sent_id="GluxovP_KedrovojPeshtj_1929:254"/>
+  <sentence text="Ков кекшемс?" sent_id="GluxovP_KedrovojPeshtj_1929:255"/>
+  <sentence text="Кардайсэ — аков, вирьс чиемс, пиреванть чиемстэ нейсамизь." sent_id="GluxovP_KedrovojPeshtj_1929:256"/>
+  <sentence text="Каськас кекшан." sent_id="GluxovP_KedrovojPeshtj_1929:257"/>
+  <sentence text="Велесэнть а содыть вирьстэ самодон." sent_id="GluxovP_KedrovojPeshtj_1929:258"/>
+  <sentence text="Бандитнэ кармить кевксниман —мерьть тайгасоян." sent_id="GluxovP_KedrovojPeshtj_1929:259"/>
+  <sentence text="Микол чавсь ансяк сядошка ур." sent_id="GluxovP_KedrovojPeshtj_1929:26"/>
+  <sentence text="Вальмаванть неявить ульцява ардыцят." sent_id="GluxovP_KedrovojPeshtj_1929:260"/>
+  <sentence text="Маряви лоткасть зняро бутим ломать Миколонь кудонть икелев." sent_id="GluxovP_KedrovojPeshtj_1929:261"/>
+  <sentence text="Панжизь ортатнень." sent_id="GluxovP_KedrovojPeshtj_1929:262"/>
+  <sentence text="Бертаз ды Волчок онгить совицятнень ланкс, а нолдыть кардайс." sent_id="GluxovP_KedrovojPeshtj_1929:263"/>
+  <sentence text="Маряви, Волчок цийнеме кармась, нать, пек керизь ногайкасо." sent_id="GluxovP_KedrovojPeshtj_1929:264"/>
+  <sentence text="Микол седе курок валксь каськас." sent_id="GluxovP_KedrovojPeshtj_1929:265"/>
+  <sentence text="—Маря, максык монень уртнэ марто мешоконть ды ружиянть." sent_id="GluxovP_KedrovojPeshtj_1929:266"/>
+  <sentence text="Маря чийни кудованть." sent_id="GluxovP_KedrovojPeshtj_1929:267"/>
+  <sentence text="Палько не тевтнень ланкс ванозь чаркоць, тевтне аволь парт—кармась аварьдеме." sent_id="GluxovP_KedrovojPeshtj_1929:268"/>
+  <sentence text="Ансяк кенерсь Маря каська-кенкшенть Микол мельга пекстамо, кудос совась винтовка марто ломань." sent_id="GluxovP_KedrovojPeshtj_1929:269"/>
+  <sentence text="Ней капши мекев кудов." sent_id="GluxovP_KedrovojPeshtj_1929:27"/>
+  <sentence text="Оршазь паро шинельсэ, бокасонзо револьвер." sent_id="GluxovP_KedrovojPeshtj_1929:270"/>
+  <sentence text="Ломанесь алкине, усанзо ды сакалонзо ваньксстэ наразь." sent_id="GluxovP_KedrovojPeshtj_1929:271"/>
+  <sentence text="Мельганзо совасть эщо кавто ломать." sent_id="GluxovP_KedrovojPeshtj_1929:272"/>
+  <sentence text="Омбоцесь сакалов, рижой." sent_id="GluxovP_KedrovojPeshtj_1929:274"/>
+  <sentence text="Кавонест кецэ винтовкат, карксозост содозь кавтонь-кавтонь гранат." sent_id="GluxovP_KedrovojPeshtj_1929:275"/>
+  <sentence text="Ансяк совасть кудос, револьвер мартось вицтэ Марянень:" sent_id="GluxovP_KedrovojPeshtj_1929:276"/>
+  <sentence text="— Мирьдеть косо?" sent_id="GluxovP_KedrovojPeshtj_1929:277"/>
+  <sentence text="— Арась кудосо, тайгав тусь..." sent_id="GluxovP_KedrovojPeshtj_1929:278"/>
+  <sentence text="— Кенгелят!" sent_id="GluxovP_KedrovojPeshtj_1929:279"/>
+  <sentence text="Ютась уш уронь чавнома шкаськак." sent_id="GluxovP_KedrovojPeshtj_1929:28"/>
+  <sentence text="Ёвтак, яла теке мусынек." sent_id="GluxovP_KedrovojPeshtj_1929:280"/>
+  <sentence text="А ёвтатдеряй, машттадызь." sent_id="GluxovP_KedrovojPeshtj_1929:281"/>
+  <sentence text="— Месть кенгелемс?" sent_id="GluxovP_KedrovojPeshtj_1929:282"/>
+  <sentence text="Учан вана эйсэнзэ, не читнестэ самаль уш тензэ." sent_id="GluxovP_KedrovojPeshtj_1929:283"/>
+  <sentence text="— Чиеде кардайс! — мерсь револьвер мартось,—вешнинк седе парсте." sent_id="GluxovP_KedrovojPeshtj_1929:284"/>
+  <sentence text="Кавтотне сеске лиссть." sent_id="GluxovP_KedrovojPeshtj_1929:285"/>
+  <sentence text="Курок мекев мурдасть." sent_id="GluxovP_KedrovojPeshtj_1929:286"/>
+  <sentence text="—Господин взводной, арась кардайсэ косояк, весе таркатнень ваннынек." sent_id="GluxovP_KedrovojPeshtj_1929:287"/>
+  <sentence text="Каськас эзь кекшт ли сон." sent_id="GluxovP_KedrovojPeshtj_1929:288"/>
+  <sentence text="Празь прась Марянь седейзэ." sent_id="GluxovP_KedrovojPeshtj_1929:289"/>
+  <sentence text="Читне экшендясть." sent_id="GluxovP_KedrovojPeshtj_1929:29"/>
+  <sentence text="«Мусызь бандитнэ Миколонь, маштнисамизь весе»,— арьси Маря," sent_id="GluxovP_KedrovojPeshtj_1929:290"/>
+  <sentence text="— Меринь тенк арась кудосо—вирьсэ сон!" sent_id="GluxovP_KedrovojPeshtj_1929:291"/>
+  <sentence text="Эцеде каськаскак..." sent_id="GluxovP_KedrovojPeshtj_1929:292"/>
+  <sentence text="— Панжик каськанть!—серьгець сакалов бандитэсь Марянень." sent_id="GluxovP_KedrovojPeshtj_1929:293"/>
+  <sentence text="Марянь кедензэ-пильгензэ кармасть сорномо, тандаць, сонсь тандадыкс пря а невти." sent_id="GluxovP_KedrovojPeshtj_1929:294"/>
+  <sentence text="—Кепедик каська кенкшеньть, — таго сергець секе бандитэсь." sent_id="GluxovP_KedrovojPeshtj_1929:295"/>
+  <sentence text="Маря панжизе каськанть." sent_id="GluxovP_KedrovojPeshtj_1929:296"/>
+  <sentence text="—Ванодо!" sent_id="GluxovP_KedrovojPeshtj_1929:297"/>
+  <sentence text="Сакало марто рыжой бандитэсь комась, ваны каська варяванть." sent_id="GluxovP_KedrovojPeshtj_1929:298"/>
+  <sentence text="—Тон каськас эцек! — мерсь тензэ взводнойсь." sent_id="GluxovP_KedrovojPeshtj_1929:299"/>
+  <sentence text="Эрявсь каявтомс продразверстка, усковтомс волостев пенгть." sent_id="GluxovP_KedrovojPeshtj_1929:3"/>
+  <sentence text="Течи-ванды лов." sent_id="GluxovP_KedrovojPeshtj_1929:30"/>
+  <sentence text="Бандитэсь пелезевсь чопуда каськас валгомо." sent_id="GluxovP_KedrovojPeshtj_1929:300"/>
+  <sentence text="—Арась, тосо а неяви, алкукскак нать, вирьсэ." sent_id="GluxovP_KedrovojPeshtj_1929:301"/>
+  <sentence text="Пекстык каськанть." sent_id="GluxovP_KedrovojPeshtj_1929:302"/>
+  <sentence text="Маря путызе каська кенкшенть." sent_id="GluxovP_KedrovojPeshtj_1929:303"/>
+  <sentence text="Шождынестэ таргизе оймензэ." sent_id="GluxovP_KedrovojPeshtj_1929:304"/>
+  <sentence text="—Андымизь мездеяк! — мерсть Марянень бандитнэ." sent_id="GluxovP_KedrovojPeshtj_1929:305"/>
+  <sentence text="Маря радувась — бандитнэ каськас эсть эце, мирьдензэ эзизь мук." sent_id="GluxovP_KedrovojPeshtj_1929:306"/>
+  <sentence text="Эряскадозь кармась путомо самавар." sent_id="GluxovP_KedrovojPeshtj_1929:307"/>
+  <sentence text="Каштомсто таргась сывель ды путызе столанкс." sent_id="GluxovP_KedrovojPeshtj_1929:308"/>
+  <sentence text="Палько озадо ашти кашланксо." sent_id="GluxovP_KedrovojPeshtj_1929:309"/>
+  <sentence text="Пувить якшамо вармат." sent_id="GluxovP_KedrovojPeshtj_1929:31"/>
+  <sentence text="Васня сон -пек тандадокшнось." sent_id="GluxovP_KedrovojPeshtj_1929:310"/>
+  <sentence text="Мейле вансы аванзо эзизь чавт." sent_id="GluxovP_KedrovojPeshtj_1929:311"/>
+  <sentence text="Лоткась аварьдемеде, кармась чулгонеме пешть." sent_id="GluxovP_KedrovojPeshtj_1929:312"/>
+  <sentence text="Маря путызе столанкс самаваронть." sent_id="GluxovP_KedrovojPeshtj_1929:313"/>
+  <sentence text="Бандитнэ котумастост таргасть сахор ды озасть ярсамо." sent_id="GluxovP_KedrovojPeshtj_1929:314"/>
+  <sentence text="Палько ваны кашланксто ломатнень ланкс ды яла пелезь ашти." sent_id="GluxovP_KedrovojPeshtj_1929:315"/>
+  <sentence text="А вечкевить тензэ не ломатне, кежевть, сахоросткак ули, Пальконень а максыть." sent_id="GluxovP_KedrovojPeshtj_1929:316"/>
+  <sentence text="Пальконь мельсэнзэ ашти: умок, кизна эщо совсесть тенст колмо салдат ружия марто." sent_id="GluxovP_KedrovojPeshtj_1929:317"/>
+  <sentence text="Сетнень весемень картузост ланксо педявтозельть мазы-мазы якстере лентат." sent_id="GluxovP_KedrovojPeshtj_1929:318"/>
+  <sentence text="Вадряльть ломатне." sent_id="GluxovP_KedrovojPeshtj_1929:319"/>
+  <sentence text="Прок якшамодо сормавозь, лопавтомо сорныть Сибирень тоща килейтне." sent_id="GluxovP_KedrovojPeshtj_1929:32"/>
+  <sentence text="Палько марто яла налксесть." sent_id="GluxovP_KedrovojPeshtj_1929:320"/>
+  <sentence text="Сахор сонензэ макснесть." sent_id="GluxovP_KedrovojPeshtj_1929:321"/>
+  <sentence text="Тантей сахорось." sent_id="GluxovP_KedrovojPeshtj_1929:322"/>
+  <sentence text="Вейкесь якстере лентаяк макссь Пальконень." sent_id="GluxovP_KedrovojPeshtj_1929:323"/>
+  <sentence text="Тетязояк сетнеде эзь кекшекшнэ." sent_id="GluxovP_KedrovojPeshtj_1929:324"/>
+  <sentence text="Вечкевсть Пальконень салдатнэ." sent_id="GluxovP_KedrovojPeshtj_1929:325"/>
+  <sentence text="Неть вана а вечкевить." sent_id="GluxovP_KedrovojPeshtj_1929:326"/>
+  <sentence text="Палько варшты лангозост кашланксто ды мекев уголс эци." sent_id="GluxovP_KedrovojPeshtj_1929:327"/>
+  <sentence text="Кедровой шишканзояк кекшизе эстэдест ташто лембе кем поц." sent_id="GluxovP_KedrovojPeshtj_1929:328"/>
+  <sentence text="Пальконь авазо ведра марто лисиксэль кудосто." sent_id="GluxovP_KedrovojPeshtj_1929:329"/>
+  <sentence text="Ансяк пичетне, кедратне ды кустнэ аштить лембестэ оршазь." sent_id="GluxovP_KedrovojPeshtj_1929:33"/>
+  <sentence text="Палько кудонь келес кармась рангомо." sent_id="GluxovP_KedrovojPeshtj_1929:330"/>
+  <sentence text="—- Тон мейсь аварьдят?" sent_id="GluxovP_KedrovojPeshtj_1929:331"/>
+  <sentence text="Кода тонеть а виськс?— мерсь рижой сакало марто бандитэсь." sent_id="GluxovP_KedrovojPeshtj_1929:332"/>
+  <sentence text="Стясь столь экшстэ, мольсь Палько ваксс." sent_id="GluxovP_KedrovojPeshtj_1929:333"/>
+  <sentence text="—Вана сахор теть, иля аварьть ансяк..." sent_id="GluxovP_KedrovojPeshtj_1929:334"/>
+  <sentence text="Палько сельведень пачк саизе сахор поколеньть, кармась поцемензэ." sent_id="GluxovP_KedrovojPeshtj_1929:335"/>
+  <sentence text="—Паро цёрась —- ай аварьди." sent_id="GluxovP_KedrovojPeshtj_1929:336"/>
+  <sentence text="Кода леметь?" sent_id="GluxovP_KedrovojPeshtj_1929:337"/>
+  <sentence text="«— Палько..." sent_id="GluxovP_KedrovojPeshtj_1929:338"/>
+  <sentence text="Бандитэсь неинзе кедровой пештнень." sent_id="GluxovP_KedrovojPeshtj_1929:339"/>
+  <sentence text="Сынь а пелить сёксень кежей варматнеде, а пелить Сибирень телень якшамо читнеде." sent_id="GluxovP_KedrovojPeshtj_1929:34"/>
+  <sentence text="—Пештеть зняро!" sent_id="GluxovP_KedrovojPeshtj_1929:340"/>
+  <sentence text="Макста моненьгак аламнешка пешть." sent_id="GluxovP_KedrovojPeshtj_1929:341"/>
+  <sentence text="Палько коморнэсэнзэ максь бандитэнтень ветешка пешть." sent_id="GluxovP_KedrovojPeshtj_1929:342"/>
+  <sentence text="Бандитэсь несынзе -пештне аволь умок вирьстэ туезь— апак костяяк." sent_id="GluxovP_KedrovojPeshtj_1929:343"/>
+  <sentence text="Пальконень рижой сакало марто ломанесь марявсь аволь беряньгак: а тури, сахор вана макссь тензэ." sent_id="GluxovP_KedrovojPeshtj_1929:344"/>
+  <sentence text="Палько кармась мартонзо кортнеме:" sent_id="GluxovP_KedrovojPeshtj_1929:345"/>
+  <sentence text="— Мейсь тынк якстере лентанк арасть? ёмавтынк штоли?" sent_id="GluxovP_KedrovojPeshtj_1929:346"/>
+  <sentence text="— Превтемеят, цёра,—пеедезевсь бандитэсь." sent_id="GluxovP_KedrovojPeshtj_1929:347"/>
+  <sentence text="Лентатнень минь ёмавтынек." sent_id="GluxovP_KedrovojPeshtj_1929:348"/>
+  <sentence text="— Ков ёмавтынк?" sent_id="GluxovP_KedrovojPeshtj_1929:349"/>
+  <sentence text="Юты Дёбаень Микол вирьганть ружия марто." sent_id="GluxovP_KedrovojPeshtj_1929:35"/>
+  <sentence text="— Вирьс ёмавтынек." sent_id="GluxovP_KedrovojPeshtj_1929:350"/>
+  <sentence text="— «Невтемс эряви ломанентень кедровой шишканть,—арьси Палько,—эзь некшне, чей, сон истямо мазы шишка»." sent_id="GluxovP_KedrovojPeshtj_1929:351"/>
+  <sentence text="Палько таргизе кемь поцто шишканть." sent_id="GluxovP_KedrovojPeshtj_1929:352"/>
+  <sentence text="— Монь вана мезем ули.-" sent_id="GluxovP_KedrovojPeshtj_1929:353"/>
+  <sentence text="—Эге-ге, кодамо покш ды мазы шишкась." sent_id="GluxovP_KedrovojPeshtj_1929:354"/>
+  <sentence text="Косто саик сонзэ?" sent_id="GluxovP_KedrovojPeshtj_1929:355"/>
+  <sentence text="—- Тетям тайгасто туизе." sent_id="GluxovP_KedrovojPeshtj_1929:356"/>
+  <sentence text="Нона бандитнэ маризь не валтнэнь." sent_id="GluxovP_KedrovojPeshtj_1929:357"/>
+  <sentence text="Ярсамодояк лоткасть, кунсолыть." sent_id="GluxovP_KedrovojPeshtj_1929:358"/>
+  <sentence text="Рыжой бандитэсь пееди." sent_id="GluxovP_KedrovojPeshtj_1929:359"/>
+  <sentence text="Копорьсэнзэ сюлмазь котумазо." sent_id="GluxovP_KedrovojPeshtj_1929:36"/>
+  <sentence text="—Кенгилят тон, Палько." sent_id="GluxovP_KedrovojPeshtj_1929:360"/>
+  <sentence text="Тетят араськак кудосо." sent_id="GluxovP_KedrovojPeshtj_1929:361"/>
+  <sentence text="— Кудосо, сон каськасо." sent_id="GluxovP_KedrovojPeshtj_1929:362"/>
+  <sentence text="— Мариде?—мерсь рыжой сакало марто бандитэсь." sent_id="GluxovP_KedrovojPeshtj_1929:363"/>
+  <sentence text="—Коммунистэсь каськас эцесь." sent_id="GluxovP_KedrovojPeshtj_1929:364"/>
+  <sentence text="—У-у, сволоч!—буркстась револьвер мартось,—минь сонзэ тосто таргасынек." sent_id="GluxovP_KedrovojPeshtj_1929:365"/>
+  <sentence text="Бандитнэ стясть столь экшстэ, саизь винтовкаст." sent_id="GluxovP_KedrovojPeshtj_1929:366"/>
+  <sentence text="Палько эйкакшонь превсэнзэяк чаркоць— беряньстэ тейсь ды кармась аварьдеме." sent_id="GluxovP_KedrovojPeshtj_1929:367"/>
+  <sentence text="Те шкане совась кудос Маря ведра марто." sent_id="GluxovP_KedrovojPeshtj_1929:368"/>
+  <sentence text="—Мирьдеть эйсэ кекшнят, стерва! — сергець лангозонзо рыжой бандитэсь,—каськасо сон, тон сёпат эйсэнзэ!" sent_id="GluxovP_KedrovojPeshtj_1929:369"/>
+  <sentence text="Бокасонзо содозь вишка ведрынезэ." sent_id="GluxovP_KedrovojPeshtj_1929:37"/>
+  <sentence text="Тулкадизе Марянь." sent_id="GluxovP_KedrovojPeshtj_1929:370"/>
+  <sentence text="Маря прясонзо кенкш косякс эшкевсь, ведрась прась кецтэнзэ." sent_id="GluxovP_KedrovojPeshtj_1929:371"/>
+  <sentence text="Ведесь киякска валовсь." sent_id="GluxovP_KedrovojPeshtj_1929:372"/>
+  <sentence text="—Каськанть панжомс!—серьгець револьвер мартось." sent_id="GluxovP_KedrovojPeshtj_1929:373"/>
+  <sentence text="Сэрей рябой бандитэсь панжизе каська кенкшенть." sent_id="GluxovP_KedrovojPeshtj_1929:374"/>
+  <sentence text="— Эх, тон якстере сволоч, листь каськастонть." sent_id="GluxovP_KedrovojPeshtj_1929:375"/>
+  <sentence text="А лисятдеряй, кудоткак пултасынек." sent_id="GluxovP_KedrovojPeshtj_1929:376"/>
+  <sentence text="— Эряви граната тов ёртомс,—мерсь рыжой бандитэсь." sent_id="GluxovP_KedrovojPeshtj_1929:377"/>
+  <sentence text="Микол кода валксь каськас, маць чопуда уголсо модамарь куця экшс." sent_id="GluxovP_KedrovojPeshtj_1929:378"/>
+  <sentence text="Винтовканзо ладизе каська кенкшенть ёнов." sent_id="GluxovP_KedrovojPeshtj_1929:379"/>
+  <sentence text="Икелензэ чиить кавто кисканзо—Бертяз ды Волчок." sent_id="GluxovP_KedrovojPeshtj_1929:38"/>
+  <sentence text="«Ансяк эцест каськас,—арьси Микол: вейте-вейте весе чавносынь»." sent_id="GluxovP_KedrovojPeshtj_1929:380"/>
+  <sentence text="Кода панжизь кенкшенть, Микол кеместэ кундызе винтовканзо." sent_id="GluxovP_KedrovojPeshtj_1929:381"/>
+  <sentence text="Учи..." sent_id="GluxovP_KedrovojPeshtj_1929:382"/>
+  <sentence text="—Граната ёртомс, граната!—мари Микол кудостонть." sent_id="GluxovP_KedrovojPeshtj_1929:383"/>
+  <sentence text="Те шкане ульцясо кудонть икелев виевстэ арць ласте ломань." sent_id="GluxovP_KedrovojPeshtj_1929:384"/>
+  <sentence text="Стукаць вальмантень:" sent_id="GluxovP_KedrovojPeshtj_1929:385"/>
+  <sentence text="—Лиседе седе курок — якстеретьне сыть!—сергець тандадозь вайгель ды седеяк пек ардозь тусь ульцяванть." sent_id="GluxovP_KedrovojPeshtj_1929:386"/>
+  <sentence text="Веленть пестэ, марявсь, кармасть леднеме." sent_id="GluxovP_KedrovojPeshtj_1929:387"/>
+  <sentence text="Колмонест бандитнэ чийнить кудованть: капшазь оршить шинелест, вешнить шапкаст." sent_id="GluxovP_KedrovojPeshtj_1929:388"/>
+  <sentence text="— Ертодо каськас гранатат! — сергець револьвер марто бандитэсь, сонсь пря каясь ушов." sent_id="GluxovP_KedrovojPeshtj_1929:389"/>
+  <sentence text="Бертяз сырець уш." sent_id="GluxovP_KedrovojPeshtj_1929:39"/>
+  <sentence text="Сэрей рябой бандитэсь юкстизе карксстонзо гранатанть ды ёртызе каськас." sent_id="GluxovP_KedrovojPeshtj_1929:390"/>
+  <sentence text="— Адя седе курок кудостонть! — сергець рыжой бандитэнтень." sent_id="GluxovP_KedrovojPeshtj_1929:391"/>
+  <sentence text="Кавонест кирнявтозь кирнявцть кенкшканть кудыкелев." sent_id="GluxovP_KedrovojPeshtj_1929:392"/>
+  <sentence text="Гранатась прась каськас модамартнень юткс." sent_id="GluxovP_KedrovojPeshtj_1929:393"/>
+  <sentence text="Капшамонь пачк бандитэсь стувтызе гранатастонть кольцянть таргамо." sent_id="GluxovP_KedrovojPeshtj_1929:394" text_eng="In his hurry the bandit forgot to pull the pin out of the grenade."/>
+  <sentence text="Гранатась эзь сезевть." sent_id="GluxovP_KedrovojPeshtj_1929:395"/>
+  <sentence text="Микол седе курок чийсь каська варянтень, кона лисиль кардайс." sent_id="GluxovP_KedrovojPeshtj_1929:396"/>
+  <sentence text="Варясь нула-валасо потомдазель." sent_id="GluxovP_KedrovojPeshtj_1929:397"/>
+  <sentence text="Панжизе варянть, ладизе винтовканзо, ваны кардайс." sent_id="GluxovP_KedrovojPeshtj_1929:398"/>
+  <sentence text="Нейсы: револьвер марто бандитэсь ласте озась уш ды кармась ардомо ортатнень пелев." sent_id="GluxovP_KedrovojPeshtj_1929:399"/>
+  <sentence text="Атятнень эрьва чистэ савкшнось панемс улавс." sent_id="GluxovP_KedrovojPeshtj_1929:4"/>
+  <sentence text="Чийнеме а вечки." sent_id="GluxovP_KedrovojPeshtj_1929:40"/>
+  <sentence text="Микол сметясь лангозонзо." sent_id="GluxovP_KedrovojPeshtj_1929:400"/>
+  <sentence text="Бах!.. лець." sent_id="GluxovP_KedrovojPeshtj_1929:401"/>
+  <sentence text="Бандитэсь пряс понксь: аволдавсь кетьнесэ ды винтовканзо марто ресьтедевсь мастор ваксс." sent_id="GluxovP_KedrovojPeshtj_1929:402"/>
+  <sentence text="Рижой бандитэнть лишмезэ а йашти, бандитэсь ласте а озави кодаяк." sent_id="GluxovP_KedrovojPeshtj_1929:403"/>
+  <sentence text="Зэрь!— Микол лець омбоцеде." sent_id="GluxovP_KedrovojPeshtj_1929:404"/>
+  <sentence text="Рижой бандитэсь понксь копорьс." sent_id="GluxovP_KedrovojPeshtj_1929:405"/>
+  <sentence text="Пултокс сяворсь бандитэсь." sent_id="GluxovP_KedrovojPeshtj_1929:406"/>
+  <sentence text="Лишмесь ардозь тусь ульцяв..." sent_id="GluxovP_KedrovojPeshtj_1929:407"/>
+  <sentence text="Рябой сэрей бандитэсь, кона ёртызе каськас гранатанть, лишмензэяк кадызе латалов содозь, вицтэ чийсь ульцяв." sent_id="GluxovP_KedrovojPeshtj_1929:408"/>
+  <sentence text="Велесэнть кепетець покш шум." sent_id="GluxovP_KedrovojPeshtj_1929:409"/>
+  <sentence text="Волчок кискась од." sent_id="GluxovP_KedrovojPeshtj_1929:41"/>
+  <sentence text="Бандитнэ, кона ласте, кона ялго оргодить виренть пелев." sent_id="GluxovP_KedrovojPeshtj_1929:410" text_eng="The bandits, some on horseback, some afoot, run off towards the woods."/>
+  <sentence text="Аволь ансяк веленть ютксо, пиресэнтькак, маряви, кармасть леднеме." sent_id="GluxovP_KedrovojPeshtj_1929:411"/>
+  <sentence text="Микол вансы ульцяванть чиить якстереармеецт." sent_id="GluxovP_KedrovojPeshtj_1929:412"/>
+  <sentence text="Седе курок лиссь каськастонть ды чийсь ушов." sent_id="GluxovP_KedrovojPeshtj_1929:413"/>
+  <sentence text="Понавсь сонгак якстереармеецнэнь юткс и кундась леднеме бандитнэнь мельга." sent_id="GluxovP_KedrovojPeshtj_1929:414"/>
+  <sentence text="Бандитнэ вергиз лацо оргоцть вирентень." sent_id="GluxovP_KedrovojPeshtj_1929:415"/>
+  <sentence text="Маря течи колмоцеде столь пурны." sent_id="GluxovP_KedrovojPeshtj_1929:416"/>
+  <sentence text="Миколнэнь совасть инжеть: Лапшов ды эщо кавто якстереармеецт, Лапшов ялгась сэрей, раужо, сельмензэ ваныть пштистэ." sent_id="GluxovP_KedrovojPeshtj_1929:417"/>
+  <sentence text="Сакалонзо ваньксстэ наразь, кадозь ансяк нирькине усынеть." sent_id="GluxovP_KedrovojPeshtj_1929:418"/>
+  <sentence text="Маря марто Миколт аздытькак, кода седе парсте каванямс вечкима инжетнень." sent_id="GluxovP_KedrovojPeshtj_1929:419"/>
+  <sentence text="Друк кирнавтнезь чийсь Волчок кедра чувто алов." sent_id="GluxovP_KedrovojPeshtj_1929:42"/>
+  <sentence text="Маря рестась сывель, таргась велькс марто топо." sent_id="GluxovP_KedrovojPeshtj_1929:420"/>
+  <sentence text="Якстереармеецнэ налксить Палько марто, кортнить мартонзо." sent_id="GluxovP_KedrovojPeshtj_1929:421"/>
+  <sentence text="Палько ванны кодат мазыть якстере лентат сюлмазь шапказост, кедровой пештензэяк стувтынзе." sent_id="GluxovP_KedrovojPeshtj_1929:422"/>
+  <sentence text="Лапшов саизе Пальконь кавалалдо ды потолокс кепедизе:" sent_id="GluxovP_KedrovojPeshtj_1929:423" text_eng="Lapshov took Palko by the arms and raised him up to the ceiling."/>
+  <sentence text="— Палько, тон большевикат?" sent_id="GluxovP_KedrovojPeshtj_1929:424" text_eng="Palko, are you a Bolshevik?"/>
+  <sentence text="— Аволь." sent_id="GluxovP_KedrovojPeshtj_1929:425" text_eng="- No."/>
+  <sentence text="Мон коммунистан." sent_id="GluxovP_KedrovojPeshtj_1929:426" text_eng="I'm a communist."/>
+  <sentence text="Весе пейдезевсть." sent_id="GluxovP_KedrovojPeshtj_1929:427"/>
+  <sentence text="Те шкане кудос совась якстере армеец." sent_id="GluxovP_KedrovojPeshtj_1929:428"/>
+  <sentence text="— Камандир ялгай, эщо кавто бандит кундынек ды колмо лишметь камбраз марто понксть." sent_id="GluxovP_KedrovojPeshtj_1929:429"/>
+  <sentence text="Кармась онгомо." sent_id="GluxovP_KedrovojPeshtj_1929:43"/>
+  <sentence text="Монь лишменть лавтом лангонзо пек чавовсть, мерят чей полавтомонзо бандитнэнь лишме ланкс?" sent_id="GluxovP_KedrovojPeshtj_1929:430"/>
+  <sentence text="— Бандитнэнь пекстынк весе ве таркас! — мерсь камандирэсь." sent_id="GluxovP_KedrovojPeshtj_1929:431"/>
+  <sentence text="Ванстодо эйсэст седе парсте." sent_id="GluxovP_KedrovojPeshtj_1929:432"/>
+  <sentence text="Эряви улавт вешемс советстэ ды виемс бандитнэнь ошов." sent_id="GluxovP_KedrovojPeshtj_1929:433"/>
+  <sentence text="— Иляст орготь ки ланксо!—мерсь якстере армеецэсь." sent_id="GluxovP_KedrovojPeshtj_1929:434"/>
+  <sentence text="— Оргодеме кармитьдеряй, якстереармеецнэ иляст удо—винтовкаст кецэст." sent_id="GluxovP_KedrovojPeshtj_1929:435" text_eng=""/>
+  <sentence text="Кундазь лишметнень мон монсь мейле вансынь." sent_id="GluxovP_KedrovojPeshtj_1929:436"/>
+  <sentence text="Седе партнэнь сайсынек эстенек, берятнень явшесынек велев беднойтне ланга." sent_id="GluxovP_KedrovojPeshtj_1929:437"/>
+  <sentence text="— Кувать тесэ аштитянок?" sent_id="GluxovP_KedrovojPeshtj_1929:438"/>
+  <sentence text="— Аволь." sent_id="GluxovP_KedrovojPeshtj_1929:439"/>
+  <sentence text="Бертязгак прок удомсто сырьгойсь, чийсь тозонь, Тайгань келес кавонест онгить." sent_id="GluxovP_KedrovojPeshtj_1929:44"/>
+  <sentence text="Лишметнень анцынек ды сырьгатанок." sent_id="GluxovP_KedrovojPeshtj_1929:440"/>
+  <sentence text="Якстереармеецэсь лиссь кудостонть." sent_id="GluxovP_KedrovojPeshtj_1929:441"/>
+  <sentence text="Лапшов ялганзо марто озасть ярсамо." sent_id="GluxovP_KedrovojPeshtj_1929:442"/>
+  <sentence text="Эсть кенерть эщо якстереармеецнэ столь экшстэнть стямо, Микол несы ульцява кавто улавсо ускить бандитнэнь." sent_id="GluxovP_KedrovojPeshtj_1929:443"/>
+  <sentence text="Колмонь-колмонь бандит озадо эрьва улавсонть." sent_id="GluxovP_KedrovojPeshtj_1929:444"/>
+  <sentence text="Улавтнэ вакссо ласте молить ниле якстереармеецт." sent_id="GluxovP_KedrovojPeshtj_1929:445"/>
+  <sentence text="Микол ваны вальмаванть: вейке бандитэсь тензэ прок содавикс." sent_id="GluxovP_KedrovojPeshtj_1929:446"/>
+  <sentence text="Те бандитэсь улавсонть озадо ашти Миколонь кудонть ёнов удало пельде." sent_id="GluxovP_KedrovojPeshtj_1929:447"/>
+  <sentence text="Чамазо Миколнэнь парсте а неяви." sent_id="GluxovP_KedrovojPeshtj_1929:448"/>
+  <sentence text="Бандитэсь велявтызе прянзо ды варштась Микол ёнов." sent_id="GluxovP_KedrovojPeshtj_1929:449"/>
+  <sentence text="Чийсь мельгаст Миколгак." sent_id="GluxovP_KedrovojPeshtj_1929:45"/>
+  <sentence text="Микол дивадо пешкець." sent_id="GluxovP_KedrovojPeshtj_1929:450"/>
+  <sentence text="— Те Тёпунь Кирё." sent_id="GluxovP_KedrovojPeshtj_1929:451"/>
+  <sentence text="Кода сон понксь бандитнэнь юткс?—арьси Микол." sent_id="GluxovP_KedrovojPeshtj_1929:452"/>
+  <sentence text="— Лапшов ялгай, лоткавтытькак улавтнэнь." sent_id="GluxovP_KedrovojPeshtj_1929:453"/>
+  <sentence text="Вейке ломань, неяви, стяко понксь бандитнэнь юткс, сон аволь бандит." sent_id="GluxovP_KedrovojPeshtj_1929:454"/>
+  <sentence text="— Азё чийть, сергець тенет, лоткаст!— мерсь Лапшов вейке якстереармеецнэнь." sent_id="GluxovP_KedrovojPeshtj_1929:455"/>
+  <sentence text="Якстереармеецнэ кавонест чиезь тусть ульцяв." sent_id="GluxovP_KedrovojPeshtj_1929:456"/>
+  <sentence text="Улавтнэнь лоткавтызь." sent_id="GluxovP_KedrovojPeshtj_1929:457"/>
+  <sentence text="Камандирэсь Микол марто лиссть кудосто." sent_id="GluxovP_KedrovojPeshtj_1929:458"/>
+  <sentence text="Ваны Микол, алкукскак улавсонть озадо Кирё, конань марто сон ютась венть вейсэ печтизе тайгасо." sent_id="GluxovP_KedrovojPeshtj_1929:459"/>
+  <sentence text="Кедрань тарад ланксо вере ур неяви." sent_id="GluxovP_KedrovojPeshtj_1929:46"/>
+  <sentence text="—Тон кода понгить тей?—кевкстизе Микол." sent_id="GluxovP_KedrovojPeshtj_1929:460"/>
+  <sentence text="Кирё радувась: неизе Миколонь." sent_id="GluxovP_KedrovojPeshtj_1929:461"/>
+  <sentence text="— Тон содасак те ломаненть? — мерсь Лапшов Миколнэнь." sent_id="GluxovP_KedrovojPeshtj_1929:462"/>
+  <sentence text="— Кода эно?" sent_id="GluxovP_KedrovojPeshtj_1929:463" text_eng="What do you think?"/>
+  <sentence text="Ютась венть минь вейсэ тайгасо удынек." sent_id="GluxovP_KedrovojPeshtj_1929:464"/>
+  <sentence text="Сон аволь минек велень." sent_id="GluxovP_KedrovojPeshtj_1929:465" text_eng="He's not from our village."/>
+  <sentence text="Эри пек беднойстэ—лишмезэяк арась." sent_id="GluxovP_KedrovojPeshtj_1929:466"/>
+  <sentence text="Улавтнэ бандитнэнь марто сырьгасть икелев." sent_id="GluxovP_KedrovojPeshtj_1929:467"/>
+  <sentence text="Кирё кадовсь." sent_id="GluxovP_KedrovojPeshtj_1929:468"/>
+  <sentence text="— Евтник» кода тон истя понгить бандитнэнь юткс?—кевкстизе Микол." sent_id="GluxovP_KedrovojPeshtj_1929:469"/>
+  <sentence text="Саизе Микол кедезэнзэ ружиянть, лець." sent_id="GluxovP_KedrovojPeshtj_1929:47"/>
+  <sentence text="— Мон тондеть мейле аволь куватьс якинь тайгаванть ды сырьгинь тынк веленть ланга кудов." sent_id="GluxovP_KedrovojPeshtj_1929:470"/>
+  <sentence text="Ансяк карминь вирьстэнть лисеме, маряса велесэнть леднить." sent_id="GluxovP_KedrovojPeshtj_1929:471" text_eng="I just started coming out of the woods, I hear they are shooting in the village."/>
+  <sentence text="Кекшинь седе васов." sent_id="GluxovP_KedrovojPeshtj_1929:472"/>
+  <sentence text="Мейле, кода оймасть леднемеде, карминь вирь чиреванть ютамо." sent_id="GluxovP_KedrovojPeshtj_1929:473"/>
+  <sentence text="Ванса: монь пелев ве ломань чии, мельганзо кавто ласте панить." sent_id="GluxovP_KedrovojPeshtj_1929:474"/>
+  <sentence text="Мон вирь поц чиезь туинь, ружиямгак тарад алов ёртыя." sent_id="GluxovP_KedrovojPeshtj_1929:475"/>
+  <sentence text="Ласте ардыцятне кармасть леднеме." sent_id="GluxovP_KedrovojPeshtj_1929:476"/>
+  <sentence text="Чиицянть чавизь." sent_id="GluxovP_KedrovojPeshtj_1929:477"/>
+  <sentence text="Редимизь моньгак." sent_id="GluxovP_KedrovojPeshtj_1929:478"/>
+  <sentence text="Кармасть мельган панеме." sent_id="GluxovP_KedrovojPeshtj_1929:479"/>
+  <sentence text="Велязь-велязь прась алов якстере пуло марто мазы урнэ." sent_id="GluxovP_KedrovojPeshtj_1929:48"/>
+  <sentence text="Кода ледить мельган винтовкасо, мон лоткинь ды кедень кепединь, арьсян: куть чийть, куть иля—яла теке сасатадызь ды ломатнеяк, арьсян, паряк, миньсинек." sent_id="GluxovP_KedrovojPeshtj_1929:480"/>
+  <sentence text="Арцть ваксозон." sent_id="GluxovP_KedrovojPeshtj_1929:481"/>
+  <sentence text="Ванса, ломатне алкукскак миньсинек—якстереармеецт, якстере лентат шапкасост." sent_id="GluxovP_KedrovojPeshtj_1929:482"/>
+  <sentence text="Кортан тенст:" sent_id="GluxovP_KedrovojPeshtj_1929:483"/>
+  <sentence text="— Мон аволь бандитан." sent_id="GluxovP_KedrovojPeshtj_1929:484"/>
+  <sentence text="Сынь а кемить: «Мейсь, кортыть, эно чиить пек эстэденек?" sent_id="GluxovP_KedrovojPeshtj_1929:485"/>
+  <sentence text="Эрьва бандитэсь, кода понги, сёпи эсь прянзо ды кецэтькак неинек ружия ульнесь»." sent_id="GluxovP_KedrovojPeshtj_1929:486" text_eng="Every bandit, when he gets caught, hides himself, and we saw you had a gun in your hands, too."/>
+  <sentence text="Ветимизь велес ды озавтымизь монь бандитнэнь марто ве утомс." sent_id="GluxovP_KedrovojPeshtj_1929:487"/>
+  <sentence text="Микол ды якстереармеецнэ пеедить." sent_id="GluxovP_KedrovojPeshtj_1929:488"/>
+  <sentence text="— Вана, иля чийне пек —- понгонить бандитэнь таркас." sent_id="GluxovP_KedrovojPeshtj_1929:489"/>
+  <sentence text="Пулинесь вицтэ сельмс понксь." sent_id="GluxovP_KedrovojPeshtj_1929:49"/>
+  <sentence text="— Васолдо эсть содавт якстере армеецнэ, секс чиезь тукшнынь эстэдест." sent_id="GluxovP_KedrovojPeshtj_1929:490"/>
+  <sentence text="Вана косо, цют стяко эзинь ёма!.." sent_id="GluxovP_KedrovojPeshtj_1929:491"/>
+  <sentence text="— Мон маринь, лишметь арась тонть?— мерсь Кирёнень камандирэсь." sent_id="GluxovP_KedrovojPeshtj_1929:492"/>
+  <sentence text="— Арась лишмем, Лапшов ялгай." sent_id="GluxovP_KedrovojPeshtj_1929:493"/>
+  <sentence text="Кизна кулось, ней кодаяк вием а саты лия лишме рамамс." sent_id="GluxovP_KedrovojPeshtj_1929:494"/>
+  <sentence text="— Макстанок лишме тонеть, ансяк иля сёвно эйсэнек стяко тандавтумат кис." sent_id="GluxovP_KedrovojPeshtj_1929:495"/>
+  <sentence text="— Адядо соватанок кудос!—терьдинзе Микол,—чайде симдянок." sent_id="GluxovP_KedrovojPeshtj_1929:496"/>
+  <sentence text="Аволь кувать аштезь, Лапшов отрядонзо марто сырьгась бандитнэнь мельга." sent_id="GluxovP_KedrovojPeshtj_1929:497"/>
+  <sentence text="Кирё чокшнэнь пелев ансяк тусь эсинзэ велев." sent_id="GluxovP_KedrovojPeshtj_1929:498"/>
+  <sentence text="Алонзо ульнесь бандитэнь алаша." sent_id="GluxovP_KedrovojPeshtj_1929:499"/>
+  <sentence text="Сы Микол советстэ кудов, яла теке а кацызь." sent_id="GluxovP_KedrovojPeshtj_1929:5"/>
+  <sentence text="Ваткизе Микол кеденть." sent_id="GluxovP_KedrovojPeshtj_1929:50"/>
+  <sentence text="Сывеленть явтызе кавтов ды ёртызе кискатненень." sent_id="GluxovP_KedrovojPeshtj_1929:51"/>
+  <sentence text="Уронь кеденть тонгизе карксонзо экшс." sent_id="GluxovP_KedrovojPeshtj_1929:52"/>
+  <sentence text="Озась Микол сяворезь чувто ланкс, таргизе пипканзо, кармась таргамо." sent_id="GluxovP_KedrovojPeshtj_1929:53"/>
+  <sentence text="Арьсезевсь семиядонзо." sent_id="GluxovP_KedrovojPeshtj_1929:54"/>
+  <sentence text="Тошнакаць Палько мельга, Пешть эряви пурнамс Пальконень, — арьси Микол." sent_id="GluxovP_KedrovojPeshtj_1929:55"/>
+  <sentence text="Стясь, кармась пурнамо кедра-шишкат." sent_id="GluxovP_KedrovojPeshtj_1929:56"/>
+  <sentence text="Сорновць вейке чувто, верьде ламо прасть шишкатнеде." sent_id="GluxovP_KedrovojPeshtj_1929:57" text_eng="He shook a tree, and there were a lot of cones that fell from above."/>
+  <sentence text="Вачкинзе сынст ве куцяс, сайсь эчке тарад ды кармась тапамост." sent_id="GluxovP_KedrovojPeshtj_1929:58"/>
+  <sentence text="Шишкатне коськ, пештне певерсть куроксто." sent_id="GluxovP_KedrovojPeshtj_1929:59"/>
+  <sentence text="Вейкесь цёранзо марто эри беряньстэ—председательтеме а явовить." sent_id="GluxovP_KedrovojPeshtj_1929:6"/>
+  <sentence text="Пурнынзе пештнень мешокс." sent_id="GluxovP_KedrovojPeshtj_1929:60"/>
+  <sentence text="Сельмезэнзэ понксь вейке мазы покш шишка." sent_id="GluxovP_KedrovojPeshtj_1929:61"/>
+  <sentence text="— Вана косо Пальконень гостинецесь." sent_id="GluxovP_KedrovojPeshtj_1929:62"/>
+  <sentence text="Вана радуви..." sent_id="GluxovP_KedrovojPeshtj_1929:63"/>
+  <sentence text="Микол путызе кедра-шишканть мешокс, уронь кетьнень вакс." sent_id="GluxovP_KedrovojPeshtj_1929:64"/>
+  <sentence text="— Ну, Волчок, месть кеверькшнят, айда икелев,—пшкаць Микол кискатненень," sent_id="GluxovP_KedrovojPeshtj_1929:65"/>
+  <sentence text="— Мейсь келеть нолдык, Бертяз?" sent_id="GluxovP_KedrovojPeshtj_1929:66"/>
+  <sentence text="Сизить, нать." sent_id="GluxovP_KedrovojPeshtj_1929:67"/>
+  <sentence text="Ванды кудосо ульдянок, кармат оймсеме." sent_id="GluxovP_KedrovojPeshtj_1929:68"/>
+  <sentence text="Бертяз прок чаркоць, мезде корты Микол." sent_id="GluxovP_KedrovojPeshtj_1929:69"/>
+  <sentence text="Чии кодамояк авине—мирьдезэ тури, председательтеме мирьдесь киненьгак а кардави." sent_id="GluxovP_KedrovojPeshtj_1929:7"/>
+  <sentence text="Варштась азоронзо ланкс ды пулонзо юхаезь кармась онгомо." sent_id="GluxovP_KedrovojPeshtj_1929:70"/>
+  <sentence text="Сонськак Микол пек сизесь." sent_id="GluxovP_KedrovojPeshtj_1929:71"/>
+  <sentence text="Тайгасо китне арасть." sent_id="GluxovP_KedrovojPeshtj_1929:72"/>
+  <sentence text="Течи чоп савсь якамс лутконь-латконь, кундонь-кандонь трокс." sent_id="GluxovP_KedrovojPeshtj_1929:73"/>
+  <sentence text="Куйсть сэрей пандо пряс." sent_id="GluxovP_KedrovojPeshtj_1929:74"/>
+  <sentence text="Васов перть пелев неяви." sent_id="GluxovP_KedrovojPeshtj_1929:75"/>
+  <sentence text="Ков а варштат, яла вирь." sent_id="GluxovP_KedrovojPeshtj_1929:76"/>
+  <sentence text="Тайганть прок лезэяк косояк арась." sent_id="GluxovP_KedrovojPeshtj_1929:77"/>
+  <sentence text="Алкукскак, ютак те таркастонть пелеве ёнов сядо вайгельбеть, эрицят а вастат: ютак ветесят, тысча вайгельбе—виренть пезэ яла а машты." sent_id="GluxovP_KedrovojPeshtj_1929:78"/>
+  <sentence text="Касыть чувтнэ сядонь-сядонь ие, ломань узерень апак варша." sent_id="GluxovP_KedrovojPeshtj_1929:79"/>
+  <sentence text="Не читьнестэ ульнесь велень промкс." sent_id="GluxovP_KedrovojPeshtj_1929:8"/>
+  <sentence text="Пингест печтясызь—сяворить, наксадыть." sent_id="GluxovP_KedrovojPeshtj_1929:80"/>
+  <sentence text="Кулозь чувтонть кияк рунгонзо а токасы." sent_id="GluxovP_KedrovojPeshtj_1929:81"/>
+  <sentence text="Чуросто ансяк охотник эли овто эскельди троксканзо." sent_id="GluxovP_KedrovojPeshtj_1929:82"/>
+  <sentence text="Чизэ кармась чопотеме." sent_id="GluxovP_KedrovojPeshtj_1929:83"/>
+  <sentence text="Нусмакацть чувтнэ, прок кежейстэ ваныть ютковаст молиця ломаненть ланкс." sent_id="GluxovP_KedrovojPeshtj_1929:84"/>
+  <sentence text="Микол соды, аволь васоло те таркастонть лей чиресэ ули кудыне, козонь лотксить удомо охотникт ды кедровой пеште мельга якиця ломать." sent_id="GluxovP_KedrovojPeshtj_1929:85"/>
+  <sentence text="Валксь Микол пандонть алов, муизе кудыненть." sent_id="GluxovP_KedrovojPeshtj_1929:86"/>
+  <sentence text="Канць коське тарат, тейсь кудонть куншкас тол." sent_id="GluxovP_KedrovojPeshtj_1929:87"/>
+  <sentence text="Ведрынензэ ведь марто ладизе тол вельксс, сонсь маць нар ланкс." sent_id="GluxovP_KedrovojPeshtj_1929:88"/>
+  <sentence text="Кисканзо ушосот," sent_id="GluxovP_KedrovojPeshtj_1929:89"/>
+  <sentence text="Атятне кадызь Миколонь оймсеме, кочкасть лия председатель." sent_id="GluxovP_KedrovojPeshtj_1929:9"/>
+  <sentence text="Друк Бертяз ды Волчок кармасть онгомо." sent_id="GluxovP_KedrovojPeshtj_1929:90"/>
+  <sentence text="Лиссь ушов Микол." sent_id="GluxovP_KedrovojPeshtj_1929:91"/>
+  <sentence text="Марясы аволь васоло тожо киска онги." sent_id="GluxovP_KedrovojPeshtj_1929:92"/>
+  <sentence text="Аламос аштезь, чувтнэ ютксто лиссь ломань киска марто." sent_id="GluxovP_KedrovojPeshtj_1929:93"/>
+  <sentence text="Ломанесь сэрей, здоров, сакалонзо раужот." sent_id="GluxovP_KedrovojPeshtj_1929:94"/>
+  <sentence text="—Шумбраят!—эчке вайгельсэ пшкаць ломанесь." sent_id="GluxovP_KedrovojPeshtj_1929:95"/>
+  <sentence text="Микол ваны лангозонзо, косто бутн некшнизе ломаненть, мельс кодаяк а леди." sent_id="GluxovP_KedrovojPeshtj_1929:96"/>
+  <sentence text="— Тон аволь Керязь- пиле Тёпунь, цёразо?—кевкстизе Микол." sent_id="GluxovP_KedrovojPeshtj_1929:97" text_eng="Aren't not Cut-earred Tyopu's boy? - Mikol asked."/>
+  <sentence text="— Сон." sent_id="GluxovP_KedrovojPeshtj_1929:98" text_eng="That's me."/>
+  <sentence text="Чей тельня эщо улавс якинь тынк велес." sent_id="GluxovP_KedrovojPeshtj_1929:99"/>
+</text>
