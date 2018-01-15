@@ -9,6 +9,8 @@ Every document contains sentences for the text indicated in the name and meta da
 
 If you use this data set in an academic publication, I would be ever so grateful if you cited it as follows:
 
-Olga Erina & Jack Rueter. (2018, January 14). Open Erme Erzya (Version v1.0)
+Olga Erina & Jack Rueter. (2018, January 14). Open Erme Erzya (Version v1.0)  http://doi.org/10.5281/zenodo.1147964
 
+
+[![DOI](https://zenodo.org/badge/117546756.svg)](https://zenodo.org/badge/latestdoi/117546756)
 
